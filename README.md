@@ -4,3 +4,4 @@ This is a free, open-source project
 0326 multiprocessing 替换 threading 发布 v1.5
 0406修复问题，发布无日志新版本
 最新版本：server-v1.8-0408-fix 0410 fix
+!warning：Chinesefix is the last fixed version and may not be updated for a considerable period of time thereafter!
